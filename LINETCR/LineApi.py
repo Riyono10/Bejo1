@@ -520,8 +520,8 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("✴✴✴✴✴✴✴✴[R4D15T1 T34M B0T]✴✴✴✴✴✴✴✴")
-      print("✴✴✴[ Editing By 1DaffaN3Kalani ]✴✴✴")
+      print("✴✴✴✴✴✴✴✴✴✴[R4D15T1 T34M B0T]✴✴✴✴✴✴✴✴✴✴")
+      print("✴✴✴✴✴[ Editing By 1DaffaN3Kalani ]✴✴✴✴✴")
       print("✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴✴")
       print("MID : " + prof.mid)
       print("NAME : " + prof.displayName)
